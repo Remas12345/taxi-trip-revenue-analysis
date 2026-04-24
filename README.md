@@ -6,6 +6,7 @@ A data analysis project exploring taxi revenue patterns using Python.
 The heatmap shows strong relationships between fare, total revenue, and trip distance, indicating that longer trips drive higher revenue.
 
 ## Visualization
+This heatmap shows the correlation between key variables such as fare, distance, and trip duration, helping identify the main drivers of revenue.
 ![Heatmap](heatmap.png)
 
 ## Tools
